@@ -1,5 +1,9 @@
 # tableau_challenge
-city bike homework
+• Interactive Web Page incorporating in depth Citi Bike performance Tableau analysis and
+visualization, python data prep and cleaning
+• Tools/libraries: Tableau; Python: pandas; HTML: Bootstrap, Bootswatch
+• sole contributor
+
 
 ## [Welcome to <ins>"NY City Bike Tableau Vizzes "</ins> web site ](https://ykrasnikov.github.io/Citi-Bike-Analysis/)
 
